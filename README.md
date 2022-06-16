@@ -1,5 +1,5 @@
 # DataRover
-## A data manager for your grandma and all the coders who hate SQL
+## A friendly no-code data manager (for your grandma too)
 
  
  

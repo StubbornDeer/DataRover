@@ -1,0 +1,31 @@
+.auth-form-container {
+    background-color: #dde3ef;
+    padding: 20px;
+    border-radius: 12px;
+}
+.connect-accordion {
+    /*background-color: whitesmoke;
+    padding: 10px;*/
+    border-radius: 5px;
+}
+.auth-box {
+    max-width: 450px;
+    .mantine-Stepper-content {
+        background-color: #eff4ff;
+        margin-top: 20px;
+        padding: 20px;
+        border-radius: 10px;
+    }
+}
+.auth-box-title {
+    display: flex;
+    justify-content: space-between;
+    h4 {
+        color: #142e62;
+        margin-top: 0px;
+    }
+    img {
+        max-width: 100%;
+        max-height: 50px;
+    }
+}

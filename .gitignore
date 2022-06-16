@@ -21,7 +21,7 @@ server/venv*
 
 # Database
 # Comment it if you want to keep your migrations files commited
-src/migrations
+*/migrations
 
 # macOs
 .DS_Store
